@@ -1,0 +1,10 @@
+azurerm-appservice-setup/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+└── modules/
+    └── app_service/
+        ├── main.tf
+        ├── variables.tf
+        └── outputs.tf
